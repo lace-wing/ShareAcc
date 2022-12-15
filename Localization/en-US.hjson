@@ -1,0 +1,38 @@
+﻿Mods : 
+{
+	ShareAcc : 
+	{
+		ItemName : 
+		{
+			Overpoweredinator : "Overpoweredinator"
+		}
+		ItemDesciption : 
+		{
+			Overpoweredinator : "Over-powered-inator!!!"
+		}
+		Config : 
+		{
+			Label : "Share Accessories Config"
+
+			Scope : 
+			{
+				Header : "Sharing Scope"
+				TeammateOnly : 
+				{
+					Label : "Teammate Only"
+					Tooltip : "Only share accessories of your teammates"
+				}
+				InRangeOnly : 
+				{
+					Label : "Range Limitation"
+					Tooltip : "Only share accessories of players within a range"
+				}
+				Range : 
+				{
+					Label : "Range (tile)"
+					Tooltip : "Radius of the range in tiles"
+				}
+			}
+		}
+	}
+}
