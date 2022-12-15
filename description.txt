@@ -1,2 +1,4 @@
 ﻿Share Accessories is an overpowered mod.
-You have friends to play with you, don't you?
+It allows you to share accessory effects with other players
+Does NOT support modded accessory slots (needs On or reflection which I haven't learn yet)
+See mod config for more information

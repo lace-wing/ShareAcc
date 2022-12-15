@@ -4,33 +4,33 @@
 	{
 		ItemName : 
 		{
-			Overpoweredinator : "Overpoweredinator"
+			Overpoweredinator : "超模终结者"
 		}
-		ItemDesciption : 
+		ItemDescription : 
 		{
-			Overpoweredinator : "Over-powered-inator!!!"
+			Overpoweredinator : "超-模-终结者!!!"
 		}
 		Config : 
 		{
-			Label : "Share Accessories Config"
+			Label : "模组配置"
 
 			Scope : 
 			{
-				Header : "Sharing Scope"
+				Header : "作用域"
 				TeammateOnly : 
 				{
-					Label : "Teammate Only"
-					Tooltip : "Only share accessories of your teammates"
+					Label : "仅限队友"
+					Tooltip : "仅与你的队友共享饰品"
 				}
 				InRangeOnly : 
 				{
-					Label : "Range Limitation"
-					Tooltip : "Only share accessories of players within a range"
+					Label : "范围限制"
+					Tooltip : "仅与范围内的玩家共享饰品"
 				}
 				Range : 
 				{
-					Label : "Range (tile)"
-					Tooltip : "Radius of the range in tiles"
+					Label : "范围 (格)"
+					Tooltip : "以格计的共享范围的半径"
 				}
 			}
 		}

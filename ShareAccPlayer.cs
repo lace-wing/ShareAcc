@@ -23,7 +23,7 @@ namespace ShareAcc
                     {
                         if (acc != null && !acc.IsAir)
                         {
-                            player.ApplyEquipFunctional(acc, false);
+                            Player.ApplyEquipFunctional(acc, false);
                         }
                     }
                 }

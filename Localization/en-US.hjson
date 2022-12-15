@@ -6,13 +6,13 @@
 		{
 			Overpoweredinator : "Overpoweredinator"
 		}
-		ItemDesciption : 
+		ItemDescription : 
 		{
 			Overpoweredinator : "Over-powered-inator!!!"
 		}
 		Config : 
 		{
-			Label : "Share Accessories Config"
+			Label : "Mod Config"
 
 			Scope : 
 			{
@@ -20,12 +20,12 @@
 				TeammateOnly : 
 				{
 					Label : "Teammate Only"
-					Tooltip : "Only share accessories of your teammates"
+					Tooltip : "Only share accessories with your teammates"
 				}
 				InRangeOnly : 
 				{
 					Label : "Range Limitation"
-					Tooltip : "Only share accessories of players within a range"
+					Tooltip : "Only share accessories with players within a range"
 				}
 				Range : 
 				{
